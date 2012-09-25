@@ -1,0 +1,32 @@
+{
+	"auto_upgrade_last_run": 1348595321,
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"Auto Semi-Colon",
+		"BracketHighlighter",
+		"Case Conversion",
+		"DetectSyntax",
+		"DobDark Color Scheme",
+		"DocBlockr",
+		"Git",
+		"Gitignore",
+		"HTML5",
+		"iTodo",
+		"LESS",
+		"Package Control",
+		"PHP-Twig",
+		"PhpBeautifier",
+		"Phpcs",
+		"PhpDoc",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tabright",
+		"Tag",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"ZenCoding"
+	]
+}
