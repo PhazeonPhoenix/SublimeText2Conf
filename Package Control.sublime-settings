@@ -7,13 +7,14 @@
 		"ApacheConf.tmLanguage",
 		"BracketHighlighter",
 		"Case Conversion",
+		"CTags",
 		"DetectSyntax",
-		"DobDark Color Scheme",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
 		"Gitignore",
 		"HTML5",
 		"LESS",
+		"Markdown Preview",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PHP-Twig",
@@ -24,7 +25,6 @@
 		"SublimeLinter",
 		"Tag",
 		"Theme - Phoenix",
-		"Theme - Soda",
 		"Tomorrow Color Schemes",
 		"TrailingSpaces"
 	]
