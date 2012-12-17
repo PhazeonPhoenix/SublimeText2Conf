@@ -10,11 +10,10 @@
 		"DetectSyntax",
 		"DobDark Color Scheme",
 		"DocBlockr",
-		"Git",
+		"Dotfiles Syntax Highlighting",
 		"Gitignore",
 		"HTML5",
 		"LESS",
-		"LiveReload",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PHP-Twig",
@@ -23,11 +22,10 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"Tabright",
 		"Tag",
 		"Theme - Phoenix",
 		"Theme - Soda",
-		"TrailingSpaces",
-		"ZenCoding"
+		"Tomorrow Color Schemes",
+		"TrailingSpaces"
 	]
 }

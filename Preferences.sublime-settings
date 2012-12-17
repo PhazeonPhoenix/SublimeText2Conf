@@ -1,8 +1,9 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/DobDark Color Scheme/Dobdark.tmTheme",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
 	"default_line_ending": "unix",
+	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_face": "Cousine",
@@ -33,6 +34,7 @@
 	],
 	"scroll_past_end": false,
 	"shift_tab_unindent": true,
+	"spell_check": true,
 	"theme": "Phoenix Dark.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
