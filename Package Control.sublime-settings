@@ -3,16 +3,16 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Alignment",
 		"ApacheConf.tmLanguage",
 		"BracketHighlighter",
 		"Case Conversion",
-		"CTags",
 		"DetectSyntax",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
-		"Gitignore",
+		"Hipster Ipsum",
 		"HTML5",
+		"jQuery Snippets pack",
+		"JsFormat",
 		"LESS",
 		"Markdown Preview",
 		"Nettuts+ Fetch",
@@ -20,12 +20,14 @@
 		"PHP-Twig",
 		"PhpDoc",
 		"PlainTasks",
+		"Pretty JSON",
 		"SideBarEnhancements",
+		"Solarized Color Scheme",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Tag",
 		"Theme - Phoenix",
-		"Tomorrow Color Schemes",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Twitter Bootstrap Snippets"
 	]
 }
