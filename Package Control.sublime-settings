@@ -3,14 +3,17 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"ApacheConf.tmLanguage",
+		"ApplySyntax",
 		"BracketHighlighter",
 		"Case Conversion",
-		"DetectSyntax",
+		"CTags",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
-		"Hipster Ipsum",
+		"Emmet",
 		"HTML5",
+		"jQuery",
 		"jQuery Snippets pack",
 		"JsFormat",
 		"LESS",
@@ -27,6 +30,7 @@
 		"SublimeLinter",
 		"Tag",
 		"Theme - Phoenix",
+		"TidyHTML5",
 		"TrailingSpaces",
 		"Twitter Bootstrap Snippets"
 	]
